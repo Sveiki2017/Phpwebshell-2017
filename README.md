@@ -49,13 +49,13 @@ For example:
 6.Back Door
 
 
-7. execution of PHP code
+7.execution of PHP code
 
 
-8. customize password (need source code to modify. you can open the edit it)
+8.customize password (need source code to modify. you can open the edit it)
 
 
-9. If you do not need a password. source code, comment out the $pass line
+9.If you do not need a password. source code, comment out the $pass line
 
 
 Many, many
